@@ -1,0 +1,10 @@
+{
+  "event_id": "3f2a9c1e-6b8d-4e2a-9f31-1a2b3c4d5e6f",
+  "event_type": "purchase",
+  "timestamp": "2026-08-18T14:32:10.123456+00:00",
+  "user_id": "user-42",
+  "session_id": "8b1c2d3e-4f5a-6b7c-8d9e-0f1a2b3c4d5e",
+  "product_id": "PROD-007",
+  "product_price": 149.90,
+  "quantity": 2
+}
